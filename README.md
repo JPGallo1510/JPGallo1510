@@ -1,6 +1,6 @@
 - 👋 Hola, soy Juan Pablo
 - 👀 Interesado en adquirir y aplicar conocimientos de ingenieria y ciencias computacionales para resolver problemas. 
-- 🌱 Aprendiendo sobre ciencia de datos
+- 🌱 Aprendiendo sobre ciencia de datos.
 
 
 <!---
